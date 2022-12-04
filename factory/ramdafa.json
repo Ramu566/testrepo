@@ -1,0 +1,9 @@
+{
+	"name": "ramdafa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54de368d-8148-4797-b849-9f082250e52f",
+		"tenantId": "118eb908-0b48-43bd-ad99-dd3458d70165"
+	}
+}
